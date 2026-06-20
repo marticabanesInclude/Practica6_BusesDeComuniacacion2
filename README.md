@@ -68,7 +68,7 @@ Revisa conexiones, alimentacion, formato FAT32 y pin CS
 
 Captura del monitor sèrie:
 
-![Monitor sèrie Exercici 1](Practica6_BusesDeComuniacacion2/IMG1.png)
+![Monitor sèrie Exercici 1](IMG1.png)
 
 ---
 
