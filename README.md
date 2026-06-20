@@ -152,7 +152,7 @@ Card UID: 05 E7 F7 04
 
 Captura del monitor sèrie:
 
-![Monitor sèrie Exercici 2](Imatges_P6/monitor_ex2_rfid.png)
+![Monitor sèrie Exercici 2](IMG2.png)
 
 ---
 
@@ -265,7 +265,7 @@ GND      →   GND
 
 Foto del muntatge realitzat:
 
-![Muntatge Exercici 3](Imatges_P6/muntatge_ex3.jpg)
+![Muntatge Exercici 3](IMG4.png)
 
 ---
 
@@ -292,7 +292,7 @@ Apropa una targeta RFID al lector...
 
 Captura del monitor sèrie:
 
-![Monitor sèrie Exercici 3](Imatges_P6/monitor_ex3.png)
+![Monitor sèrie Exercici 3](IMG3.png)
 
 ---
 
