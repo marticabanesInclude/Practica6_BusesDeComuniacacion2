@@ -68,7 +68,7 @@ Revisa conexiones, alimentacion, formato FAT32 y pin CS
 
 Captura del monitor sèrie:
 
-![Monitor sèrie Exercici 1](Imatges_P6/monitor_ex1_sd.png)
+![Monitor sèrie Exercici 1](Captura de pantalla 2026-06-20 115722.png)
 
 ---
 
